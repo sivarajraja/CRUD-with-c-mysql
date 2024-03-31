@@ -1,6 +1,7 @@
 #SIMPLE CRUD PROJECT
 
 language used : c++ 
+
 database : MYSQL
 
 ![CRUD output](https://github.com/sivarajraja/CRUD-with-c-mysql/assets/114579882/aec6ec3b-1000-472e-8259-8c84e6b51fe6)
